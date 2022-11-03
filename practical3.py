@@ -6,10 +6,10 @@ Created on Mon Oct 24 11:33:39 2022
 """
 
 import pandas as pd
-import numpy as np
+import numpy as np 
 import matplotlib.pyplot as plt
 
-Barclays = pd.read_csv('BCS_ann.csv')
+Barclays = pd.read_csv('BCS_a  nn.csv')
 bp = pd.read_csv('BP_ann.csv')
 tesco = pd.read_csv('TSCO_ann.csv')
 voda = pd.read_csv('VOD_ann.csv')
